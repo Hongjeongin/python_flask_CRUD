@@ -1,0 +1,6 @@
+index,location,cleaness,built_in
+0,서울시 종로구,True,없음
+1,서울시 관악구,False,깨끗한집
+2,서울시 송파구,False,블라블라
+3,서울시 테스트구,True,없음
+4,서울시 강남구,True,깰꼼
